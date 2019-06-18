@@ -52,7 +52,7 @@ CREATE TABLE `w_admin` (
 
 LOCK TABLES `w_admin` WRITE;
 /*!40000 ALTER TABLE `w_admin` DISABLE KEYS */;
-INSERT INTO `w_admin` VALUES (1,'admin','e10adc3949ba59abbe56e057f20f883e','管理员','18688888888','1047534821@qq.com','123456',1731930607,1527685164,47,1,0,2,'','a:2:{i:0;s:108:\"「CEO接班人」之「內蒙 – 鄂爾多斯」暑期實習計劃2017（內蒙古自治區鄂爾多斯）\";i:1;s:100:\"「CEO接班人」之「文化綠洲，島岸尋優」暑期實習計劃2017（山東省青島市）\";}','「CEO接班人」之「文化綠洲，島岸尋優」暑期實習計劃2017（山東省青島市）','/upload/activity/000/000/001/58b3f1ce517cf.jpg',NULL,0),(2,'wintop','d64d986d796f9db47deacf1fa7499768','wintop','','wintop.com','',3549691318,1490941778,26,1,0,0,'1,6,7,8,9,2,17,3,12,13','a:2:{i:0;s:108:\"「CEO接班人」之「內蒙 – 鄂爾多斯」暑期實習計劃2017（內蒙古自治區鄂爾多斯）\";i:1;s:100:\"「CEO接班人」之「文化綠洲，島岸尋優」暑期實習計劃2017（山東省青島市）\";}','中國山東省青島市','/upload/activity/000/000/002/58b77979bfe4c.png',NULL,2);
+INSERT INTO `w_admin` VALUES (1,'admin','e10adc3949ba59abbe56e057f20f883e','管理员','18688888888','1047534821@qq.com','123456',2071715637,1560860231,48,1,0,2,'','a:2:{i:0;s:108:\"「CEO接班人」之「內蒙 – 鄂爾多斯」暑期實習計劃2017（內蒙古自治區鄂爾多斯）\";i:1;s:100:\"「CEO接班人」之「文化綠洲，島岸尋優」暑期實習計劃2017（山東省青島市）\";}','「CEO接班人」之「文化綠洲，島岸尋優」暑期實習計劃2017（山東省青島市）','/upload/activity/000/000/001/58b3f1ce517cf.jpg',NULL,0),(2,'wintop','d64d986d796f9db47deacf1fa7499768','wintop','','wintop.com','',3549691318,1490941778,26,1,0,0,'1,6,7,8,9,2,17,3,12,13','a:2:{i:0;s:108:\"「CEO接班人」之「內蒙 – 鄂爾多斯」暑期實習計劃2017（內蒙古自治區鄂爾多斯）\";i:1;s:100:\"「CEO接班人」之「文化綠洲，島岸尋優」暑期實習計劃2017（山東省青島市）\";}','中國山東省青島市','/upload/activity/000/000/002/58b77979bfe4c.png',NULL,2);
 /*!40000 ALTER TABLE `w_admin` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -594,4 +594,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2019-06-18  6:00:01
+-- Dump completed on 2019-06-19  6:00:01
