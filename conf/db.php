@@ -5,6 +5,6 @@ return array(
 	'DB_PORT'=>'3306',
 	'DB_NAME'=>'wintop',
 	'DB_USER'=>'root',
-	'DB_PWD'=>'eabc36914221a102',
+	'DB_PWD'=>'root',
 	'DB_PREFIX'=>'w_',
 );
